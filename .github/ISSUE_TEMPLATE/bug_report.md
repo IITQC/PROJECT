@@ -1,5 +1,6 @@
 ---
 name: 🐛 Bug Report
+about: ...
 title: "[NameProject] | NameBug"
 labels: bug
 assignees: ''
